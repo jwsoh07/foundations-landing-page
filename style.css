@@ -196,3 +196,15 @@ main section:last-of-type h2 {
     padding: 5px 25px;
     font-size: 12px;
 }
+
+body > footer {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #1F2937;
+    color: white;
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+footer > span {
+    margin: 0 8px;
+}
